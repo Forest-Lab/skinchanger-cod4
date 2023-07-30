@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skinchangercod4-flab", "skinchangercod4-flab.csproj", "{9F52904E-3340-4961-8B03-591812FD4CAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skinchanger-cod4", "skinchanger-cod4.csproj", "{CCD1432D-A680-4CDA-B75C-6E6B33D0C1D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9F52904E-3340-4961-8B03-591812FD4CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9F52904E-3340-4961-8B03-591812FD4CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9F52904E-3340-4961-8B03-591812FD4CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9F52904E-3340-4961-8B03-591812FD4CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD1432D-A680-4CDA-B75C-6E6B33D0C1D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD1432D-A680-4CDA-B75C-6E6B33D0C1D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD1432D-A680-4CDA-B75C-6E6B33D0C1D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD1432D-A680-4CDA-B75C-6E6B33D0C1D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {539AAB9D-50E8-4C17-92EE-8D994914DC3C}
+		SolutionGuid = {61E3DE3B-5434-412D-AB51-9D1B1CC3255F}
 	EndGlobalSection
 EndGlobal
