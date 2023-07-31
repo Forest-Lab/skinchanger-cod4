@@ -1,0 +1,7 @@
+C:\Users\dd\Desktop\skinchanger-cod4\skinchanger-cod4\obj\Debug\net5.0-windows\skinchanger-cod4.csproj.AssemblyReference.cache
+C:\Users\dd\Desktop\skinchanger-cod4\skinchanger-cod4\obj\Debug\net5.0-windows\skinchanger_cod4.Form1.resources
+C:\Users\dd\Desktop\skinchanger-cod4\skinchanger-cod4\obj\Debug\net5.0-windows\skinchanger-cod4.csproj.GenerateResource.cache
+C:\Users\dd\Desktop\skinchanger-cod4\skinchanger-cod4\obj\Debug\net5.0-windows\skinchanger-cod4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dd\Desktop\skinchanger-cod4\skinchanger-cod4\obj\Debug\net5.0-windows\skinchanger-cod4.AssemblyInfoInputs.cache
+C:\Users\dd\Desktop\skinchanger-cod4\skinchanger-cod4\obj\Debug\net5.0-windows\skinchanger-cod4.AssemblyInfo.cs
+C:\Users\dd\Desktop\skinchanger-cod4\skinchanger-cod4\obj\Debug\net5.0-windows\skinchanger-cod4.csproj.CoreCompileInputs.cache
